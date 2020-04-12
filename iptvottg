@@ -1,4 +1,38 @@
 #EXTM3U url-tvg="http://ottg.tv/epg.xml.gz"
+
+Lietuviški Kanalai
+
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lnk"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/5900.png",LNK HD LT
+http://cdn.ottg.tv/5900/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=724&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-lt"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/9102.png",TV3 HD LT
+http://cdn.ottg.tv/9102/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=720&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv1000-premium"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/3127.png",TV3 Film HD PREMIUM+
+http://cdn.ottg.tv/3127/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=605&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv6-lt"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/1309.png",TV6 HD LT
+http://cdn.ottg.tv/1309/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=721&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv8-lt"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/3814.png",TV8 HD LT
+http://cdn.ottg.tv/3814/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=722&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv1-lt"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/1155.png",TV1 HD LT
+http://cdn.ottg.tv/1155/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=719&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lrt-tv"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/9055.png",LRT HD LT
+http://cdn.ottg.tv/9055/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=723&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="info-tv"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/2282.png",INFO TV HD LT
+http://cdn.ottg.tv/2282/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=725&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="btv"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/2538.png",BTV HD LT
+http://cdn.ottg.tv/2538/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=726&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="sport1-lt"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/4035.png",Sport1 HD LT
+http://cdn.ottg.tv/4035/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=727&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lrt-kultura"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/6503.png",LRT Plius HD LT
+http://cdn.ottg.tv/6503/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=728&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lietuvos-ryto-televizija"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/5861.png",Lietuvos Rytas HD LT
+http://cdn.ottg.tv/5861/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=729&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="balticum-platinum"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/4151.png",Balticum Platinum HD LT
+http://cdn.ottg.tv/4151/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=730&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="balticum-auksinis"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/.png",Balticum Auksinis LT
+http://cdn.ottg.tv/3691/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=787&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="init-tv"  group-title="Lietuviški" tvg-logo="http://pl.ottg.tv:80/icon/.png",TV7 LT
+http://cdn.ottg.tv/3138/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=788&req_host=pkjX3BL
+
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/9195.png",Первый
 http://cdn.ottg.tv/9195/video.m3u8?username=veexmono&password=stogas123&token=3fd381226c01d3716d6aadcb92428c9a&ch_id=70&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2214.png",Первый HD
